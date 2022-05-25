@@ -10,6 +10,12 @@ import java.util.concurrent.Executors;
 import java.util.concurrent.Future;
 import java.util.concurrent.TimeUnit;
 
+/* 
+
+author :- N4viya98
+
+*/
+
 class PortScanner {
 
     public static void main(final String... args) throws InterruptedException, ExecutionException
